@@ -1,5 +1,5 @@
 ## Python Introduction
-1. python is a general purpose language and easy to read, simple syntax and easy understandable  compare to other languages
+1. python is a general purpose language and easy to read, simple syntax and easy understandable  compare to other languages.
 2. python is high-level, object-oriented, interpreted language.
 3. python is very famous and widely used because of vast standard libraries which simplifies the development process to use built-in functions for common tasks.
 4. python is dynamically typed : means variables type is assigned during run-time. this is flexible but need careful attention to avoid run time errors.
